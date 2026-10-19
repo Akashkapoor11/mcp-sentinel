@@ -167,7 +167,3 @@ A passing result proves only what the checks above describe.
 ## Contributing
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md). Add a regression test for every bug or new check before opening a pull request.
-
-## License
-
-MIT — see [LICENSE](./LICENSE).
