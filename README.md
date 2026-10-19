@@ -151,19 +151,6 @@ import { parseEventStream, validateToolList, validateEndpointUrl } from 'mcp-sen
 
 ---
 
-## Limitations
-
-MCP Sentinel is a smoke tester, not a full conformance suite. It does not cover:
-
-- Authentication and authorization quality
-- Every transport edge case or TLS configuration
-- Tool correctness or application-layer safety
-- Mutation tools — never run writes against production without explicit authorization
-
-A passing result proves only what the checks above describe.
-
----
-
 ## Contributing
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md). Add a regression test for every bug or new check before opening a pull request.
