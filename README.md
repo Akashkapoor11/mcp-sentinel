@@ -2,7 +2,7 @@
 
 **A zero-dependency CLI smoke tester for [Model Context Protocol](https://modelcontextprotocol.io/) (MCP) servers over Streamable HTTP.**
 
-MCP Sentinel validates the full MCP 2025-11-25 protocol handshake, checks tool-list schema consistency, optionally executes a named tool, and emits console, JSON, or JUnit XML output — making it directly usable in CI pipelines.
+MCP Sentinel validates the full MCP 2025-11-25 protocol handshake, checks tool-list schema consistency, optionally executes a named tool, and emits console, JSON, or JUnit XML output - making it directly usable in CI pipelines.
 
 ---
 
